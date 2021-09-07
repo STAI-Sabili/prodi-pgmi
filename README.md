@@ -1,2 +1,2 @@
 # prodi-pgmi
-kepropagandaan prodi PGMI Sabili
+kepropagandaan prodi PGMI Sabili Bandung
