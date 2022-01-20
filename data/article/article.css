@@ -45,3 +45,56 @@ img {
     display             : flex;
     float               : left;
 }
+
+
+
+/*--------------------RWL Configurations-----------------*/
+@media(max-width:760px){
+ .divkonten {
+    border              : ;
+    background          : ;
+    box-shadow          : ;
+    height              : 120px;
+    width               : 90%;
+    display             : ;
+    float               : ;
+    align-items         : ;
+    justify-content     : ;
+    margin              : ;
+ }
+
+ .paragraf {
+    height              : 100px;
+    width               : 70%;
+    color               : ;
+    display             : ;
+    float               : ;
+    align-items         : ;
+    justify-content     : ;
+    text-align          : ;
+    clear               : ;
+ }
+ .articleImg {
+  height              : 80%;
+  width               : 80%;
+ }
+}
+
+@media(max-width:450px){
+ .divkonten {
+    font-size           : 12px;
+ }
+
+ .paragraf {
+    font-size           : 12px;
+    height              : 100px;
+    width               : 30%;
+    color               : ;
+    display             : ;
+    float               : ;
+    align-items         : ;
+    justify-content     : ;
+    text-align          : ;
+    clear               : ;
+ }
+}
